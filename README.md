@@ -60,4 +60,20 @@ printf("%d",x*y);
 printf("%d",x/y); 
    output will be:
      7, 3, 10 ,2
-     
+### increment-decrement operators
+ int x=5;
+ x++;
+ printf("%d",x);
+ x--;
+ printf("%d",x);
+ ++x;
+ printf("%d",x);
+ --x;
+ printf("%d",x);
+  output will be:
+     6,5,6,5
+  float data types 
+        real numbers 
+   ###  float x = 3.1;      
+         printf("%f", x); // Output: 3.100000
+       
